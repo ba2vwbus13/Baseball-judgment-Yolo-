@@ -1,6 +1,5 @@
 darknet/data/
 darknet/logs/
 darknet/weights/
-darknet/3rdparty/
 openpose/models/
 openpose/examples/media/
