@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"ball_test/strike_test2.jpg", 
+ "objects": [ 
+  {"class_id":1, "name":"base", "relative_coordinates":{"center_x":0.485144, "center_y":0.909873, "width":0.125050, "height":0.129481}, "confidence":0.450478}, 
+  {"class_id":0, "name":"ball", "relative_coordinates":{"center_x":0.553785, "center_y":0.835656, "width":0.025436, "height":0.055079}, "confidence":0.451095}
+ ] 
+}
+]

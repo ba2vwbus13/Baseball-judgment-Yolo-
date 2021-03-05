@@ -1,0 +1,4 @@
+./build/examples/openpose/openpose.bin --video examples/baseball/syuma.MP4
+
+./build/examples/openpose/openpose.bin --image_dir examples/baseball --write_images examples/baseball_output
+
