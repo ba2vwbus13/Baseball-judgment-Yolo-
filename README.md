@@ -1,1 +1,1 @@
-# Baseball-judgment-Yolo-
+# Strike-judgment
